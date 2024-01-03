@@ -1,3 +1,6 @@
+# Description 
+Python Flask Web Server Connected to MongoDB Atlas (hosted on AWS)
+
 # Setup
 
 1. Install latest version of Python. May need to add python to system env vars in windows.
